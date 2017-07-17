@@ -1,2 +1,3 @@
 # python_exercises
-I'm learning Python and practicing solving problems
+
+Teaching myself Python and practicing solving problems
