@@ -1,3 +1,3 @@
 # python_exercises
 
-Teaching myself Python and practicing solving problems
+Live coding to prep for interviews
